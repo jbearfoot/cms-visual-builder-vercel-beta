@@ -3,10 +3,10 @@ This is a minimal Visual Builder demo site
 ## Getting Started
 
 Configure your local env by adding .env.local file in the root folder
-Make sure to add the following values:  
+Make sure to add the following values:   
 
 ```bash
-# Optimizely Global
+# Optimizely Globaldfd
 OPTIMIZELY_DEBUG=0
 
 # Optimizely Graph
@@ -30,7 +30,7 @@ OPTIMIZELY_PUBLISH_TOKEN=optly-5d5216fe-047f-49e3-b8c6-579712b3606e
 NODE_TLS_REJECT_UNAUTHORIZED=0
 ```
 
-Then make sure you've got your local environment:
+Then make sure you've got your local environment: 
 ```bash
 yarn install
 ```
